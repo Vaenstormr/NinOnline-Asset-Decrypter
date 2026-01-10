@@ -1,6 +1,6 @@
 # NinOnline-Asset-Decrypter
 
-This is just a basic program that decrypts ".nin" files from the MMORPG Nin Online.
+Basic program for Nin Online MMORPG that lets you decrypt ".nin" files.
 
 Works only on Windows. Sorry, I don't even know how I did this.
 
